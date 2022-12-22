@@ -6,7 +6,7 @@ AgileX HUNTER 2.0
     :width: 400px
     :align: center
 
-The AgileX HUNTER 2.0 is designed for large payloads and autonomous driving applications.
+The AgileX Robotics HUNTER 2.0 is designed for large payloads and autonomous driving applications.
 Leveraging front-wheel Ackermann steering and a rocker suspension, HUNTER 2.0 can handle 5cm
 obstacles and inclines up to 10° while carrying payloads of up to 150kg (330lbs). The standard
 24V30Ah power system allows HUNTER 2.0 to travel 22km (13.6miles) and up to 40km (24.9miles) with
