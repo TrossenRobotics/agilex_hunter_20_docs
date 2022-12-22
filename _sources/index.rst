@@ -23,6 +23,7 @@ What's Here
     2.0.
 *   :doc:`specifications` - Contains specification information for the HUNTER 2.0 and related
     hardware.
+*   :doc:`downloads` - Downloadable content related to the HUNTER 2.0.
 
 Table of Contents:
 ==================
@@ -34,3 +35,4 @@ Table of Contents:
     getting_started.rst
     operation.rst
     specifications.rst
+    downloads.rst
