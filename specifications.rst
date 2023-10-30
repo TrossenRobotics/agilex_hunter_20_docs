@@ -38,7 +38,7 @@ Specifications Overview
     * - Communication
       - CAN and Serial Interfaces
     * - Maximum Speed
-      - 6km/h (Standard), 10km/h (Upgradable)
+      - 6km/h (Upgradable to 10km/h)
     * - Maximum Climbable Obstacle Height (No Load)
       - 50mm
     * - Maximum Climbable Slope (No Load)
