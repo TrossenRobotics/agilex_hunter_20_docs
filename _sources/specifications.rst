@@ -37,8 +37,8 @@ Specifications Overview
       - 22km (30Ah) / 40km (60Ah)
     * - Communication
       - CAN and Serial Interfaces
-    * - Maximum Speed (No Load)
-      - 6.1m/s
+    * - Maximum Speed
+      - 6km/h (Standard), 10km/h (Upgradable)
     * - Maximum Climbable Obstacle Height (No Load)
       - 50mm
     * - Maximum Climbable Slope (No Load)
